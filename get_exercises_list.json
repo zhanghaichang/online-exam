@@ -1,0 +1,130 @@
+{
+    "flag": 1,
+    "msg": "success",
+    "data": {
+        "catid": 21,
+        "catname": "章节练习",
+        "total_questions": 1449,
+        "sections": [
+            {
+                "sectionid": 164,
+                "section": "第一篇 基础知识",
+                "exam_subject": 19,
+                "charge": "2",
+                "total_questions": 817,
+                "chapter": [
+                    {
+                        "sectionid": 166,
+                        "section": "第一章 消防工作概述",
+                        "charge": "2",
+                        "total_questions": 94,
+                        "answer_questions": 10
+                    },
+                    {
+                        "sectionid": 167,
+                        "section": "第二章 燃烧基础知识",
+                        "charge": "2",
+                        "total_questions": 157,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 168,
+                        "section": "第三章 危险化学品基础知识",
+                        "charge": "2",
+                        "total_questions": 69,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 169,
+                        "section": "第四章 消防水力学基础知识",
+                        "charge": "2",
+                        "total_questions": 46,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 170,
+                        "section": "第五章 电气消防基础知识",
+                        "charge": "2",
+                        "total_questions": 54,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 171,
+                        "section": "第六章 建筑消防基础知识",
+                        "charge": "2",
+                        "total_questions": 93,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 172,
+                        "section": "第七章 建筑消防设施基础知识",
+                        "charge": "2",
+                        "total_questions": 108,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 173,
+                        "section": "第八章 消防安全检查基础知识",
+                        "charge": "2",
+                        "total_questions": 36,
+                        "answer_questions": 1
+                    },
+                    {
+                        "sectionid": 174,
+                        "section": "第九章 初起火灾处置基础知识",
+                        "charge": "2",
+                        "total_questions": 48,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 175,
+                        "section": "第十章 相关法律、法规基础知识",
+                        "charge": "2",
+                        "total_questions": 86,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 339,
+                        "section": "第十一章 职业道德",
+                        "charge": "2",
+                        "total_questions": 26,
+                        "answer_questions": 0
+                    }
+                ],
+                "answer_questions": 11
+            },
+            {
+                "sectionid": 165,
+                "section": "第二篇 初级技能",
+                "exam_subject": 19,
+                "charge": "2",
+                "total_questions": 632,
+                "chapter": [
+                    {
+                        "sectionid": 176,
+                        "section": "第一章 概述防火巡查",
+                        "charge": "2",
+                        "total_questions": 206,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 177,
+                        "section": "第二章 消防监控室监控",
+                        "charge": "2",
+                        "total_questions": 216,
+                        "answer_questions": 0
+                    },
+                    {
+                        "sectionid": 178,
+                        "section": "第三章 建筑消防设施操作与维护",
+                        "charge": "2",
+                        "total_questions": 210,
+                        "answer_questions": 0
+                    }
+                ],
+                "answer_questions": 0
+            }
+        ],
+        "answer_questions": 11
+    }
+}
